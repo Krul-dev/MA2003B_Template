@@ -1,0 +1,12 @@
+
+# Descripción de los datos
+
+Para esta primera etapa, empezaremos por cargar las librerías que necesitamos y establecemos algunas opciones de configuración:
+```{r}
+#| output: false
+library(tidyverse)
+library(here)
+library(readxl)
+
+options(scipen = 999)
+```
