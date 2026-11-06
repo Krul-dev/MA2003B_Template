@@ -1,0 +1,18 @@
+{
+  "guides/reproducible_data_science_projects.qmd": {
+    "reproducible_data_science_projects.tex": "da887436"
+  },
+  "reports/Etapa1.qmd": {
+    "Etapa1.tex": "ef72fb35"
+  },
+  "guides/reproducible_data_science_projects_es.qmd": {
+    "reproducible_data_science_projects_es.tex": "52927774"
+  },
+  "guides/reproducible_data_science_projects_updated.qmd": {
+    "reproducible_data_science_projects_updated.tex": "55a5d3fb"
+  },
+  "guides/stage_1_research_formulation_and_data_preparation.qmd": {
+    "stage_1_research_formulation_and_data_preparation.html": "e3337dc7",
+    "stage_1_research_formulation_and_data_preparation.tex": "4d52243a"
+  }
+}

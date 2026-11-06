@@ -1,0 +1,9 @@
+{
+  "quarto/reporte.qmd": {
+    "reporte.docx": "d1e9ef80"
+  },
+  "quarto/guides/reproducible_data_science_projects.qmd": {
+    "reproducible_data_science_projects.html": "f86e5278",
+    "reproducible_data_science_projects.tex": "04bac7d2"
+  }
+}
